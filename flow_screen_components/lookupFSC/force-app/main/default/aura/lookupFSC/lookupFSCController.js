@@ -1,5 +1,5 @@
 ({
-    doInit : function(component, event, helper){        
-        helper.hlpCheckValidity(component, event);            
+    doInit: function (component, event, helper) {
+        helper.hlpCheckValidity(component, event);
     }
-})
+});

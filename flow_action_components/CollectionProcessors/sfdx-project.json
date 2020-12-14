@@ -1,0 +1,31 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "package": "CollectionActionsL",
+            "versionName": "version",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true,
+            "dependencies": [
+                {
+                    "package": "FlowBaseComponents"
+                }
+            ]
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "48.0",
+    "packageAliases": {
+        "FlowBaseComponents": "04tf4000003RQxcAAG",
+        "CollectionActionsL": "0Hof4000000TN9OCAW",
+        "CollectionActions@1.14.0-0": "04tf4000004J1IDAA0",
+        "collectionProcessorsT": "0HoB0000000Cb1CKAS",
+        "CollectionActions@1.15.0-0": "04tB0000000OxPiIAK",
+        "CollectionActions2": "0Hof4000000XZKvCAO",
+        "CollectionActions2@1.16.0-0": "04tf4000004Ptm5AAC",
+        "CollectionActions@1.17.0-0": "04tB0000000L1HJIA0",
+        "CollectionActionsL@1.20.0-0": "04tf4000004PuG7AAK",
+        "CollectionActionsL@1.20.1-0": "04tf4000004PuGCAA0"
+    }
+}
